@@ -6,7 +6,8 @@ Measure mean opinions when used two groups with the same fraction of nodes, in f
 Already implemented:
 
   Majority rule (Whithout external influence)
- To be implemented:
+ 
+ To be implemented and gather results:
  
   Majority rule (External influence. Stubbornes. Edge removal and addition. Higher influence with someone with equal opinion. Influence attribute dependent.
                 Local iterations. Anti-Majority(Hipsters). Atribute dependant influence. Resource allocation like influence)
